@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package javaapplication66;
 
 /**
@@ -13,9 +9,9 @@ public class JavaApplication66 {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) {        
         System.out.println("Hello world");
         System.out.println("Another message");
-        System.out.println("bobobob");
+        System.out.println("Yet another message");
     }
 }
