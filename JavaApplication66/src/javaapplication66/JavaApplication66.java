@@ -15,6 +15,6 @@ public class JavaApplication66 {
         System.out.println("Yet another message");
         System.out.println("More");
         System.out.println("even more");
-        System.out.println("anotheranders wrote this");
+        System.out.println("anders wrote this");
     }
 }
