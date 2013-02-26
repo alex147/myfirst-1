@@ -9,6 +9,6 @@ package javaapplication66;
  * @author andersb
  */
 public class Student {
-    private String name;
+    private String name = "adfadsfdsafsda";
     
 }
