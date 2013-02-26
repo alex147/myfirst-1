@@ -6,9 +6,14 @@ package javaapplication66;
 
 /**
  *
- * @author andersb
+ * @author Peter
  */
-public class Student {
-    private String name = "adfadsfdsafsda";
+public class PeterJDN
+{
+
+    public PeterJDN()
+    {
+        System.out.println("Hello from Peter");
+    }
     
 }

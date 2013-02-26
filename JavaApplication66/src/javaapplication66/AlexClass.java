@@ -6,9 +6,8 @@ package javaapplication66;
 
 /**
  *
- * @author andersb
+ * @author Admin
  */
-public class Student {
-    private String name = "adfadsfdsafsda";
+public class AlexClass {
     
 }
