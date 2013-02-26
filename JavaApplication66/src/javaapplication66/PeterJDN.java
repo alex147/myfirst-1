@@ -14,6 +14,7 @@ public class PeterJDN
     public PeterJDN()
     {
         System.out.println("Hello from Peter");
+        System.out.println("Hello from Alexander, as well!");
     }
     
 }
